@@ -45,6 +45,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susmith098&show_icons=true&locale=en&layout=compact" alt="susmith098" /></p>
   </details>
   
@@ -52,11 +53,13 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susmith098&show_icons=true&locale=en" alt="susmith098" /></p>
   </details>
   
 ---
 <details>
   <summary>:zap: Current Streaks</summary>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susmith098&" alt="susmith098" /></p>
   </details>
