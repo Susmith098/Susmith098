@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I am a PROgrammer😎!  [ Check Out My Website! ](www.dropmag.in)
+I'm [Susmith](www.dropmag.in)😎!
+
+[![Website](https://img.shields.io/website?label=www.dropmag.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](www.dropmag.in)
 
 <!--
 **Susmith098/Susmith098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
