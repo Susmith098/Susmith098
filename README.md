@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmith098" alt="susmith098" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@j_susmith" target="blank"><img src="https://img.shields.io/twitter/follow/@j_susmith?logo=twitter&style=for-the-badge" alt="@j_susmith" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Susmith A J" target="blank"><img src="https://img.shields.io/twitter/follow/j-susmith?logo=twitter&style=for-the-badge" alt="@j_susmith" /></a> </p>
 
 - 🔭 I’m currently working on **vue.js projects**
 
