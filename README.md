@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susmith</h1>
 <h3 align="center">A passionate PROgrammer from India</h3>
 
-[!profile views]<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmith098&label=Profile%20views&color=0e75b6&style=flat" alt="susmith098" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmith098&label=Profile%20views&color=0e75b6&style=flat" alt="susmith098" /> </p> 
 
 [![Website](https://img.shields.io/website?label=dropmag.in&style=for-the-badge&url=http%3A%2F%2Fdropmag.in)](http://www.dropmag.in)
 
