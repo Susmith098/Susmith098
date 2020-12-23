@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmith098&label=Profile%20views&color=0e75b6&style=flat" alt="susmith098" /> </p> 
 <p align="center"> <a href=https://img.shields.io/github/followers/Susmith098?label=Follow&style=social></a></p>
 
-[![Website](https://img.shields.io/website?label=dropmag.in&style=for-the-badge&url=https%3A%2F%2Fdropmag.in)](www.dropmag.in)
+[![Website](https://img.shields.io/website?label=DROP MAG&style=for-the-badge&url=http%3A%2F%2Fdropmag.in)](http://www.dropmag.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmith098" alt="susmith098" /></a> </p>
 
