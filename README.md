@@ -5,8 +5,11 @@
 
 [![Website](https://img.shields.io/website?label=dropmag.in&style=for-the-badge&url=http%3A%2F%2Fdropmag.in)](http://www.dropmag.in)
 
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmith098" alt="susmith098" /></a> </p>
 
+---
 
 - 🔭 I’m currently working on **vue.js projects**
 
