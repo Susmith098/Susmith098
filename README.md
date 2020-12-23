@@ -2,25 +2,23 @@
 <h3 align="center">A passionate PROgrammer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmith098&label=Profile%20views&color=0e75b6&style=flat" alt="susmith098" /> </p> 
-<p align="center"> <a href=https://img.shields.io/github/followers/Susmith098?label=Follow&style=social></a></p>
 
 [![Website](https://img.shields.io/website?label=dropmag.in&style=for-the-badge&url=http%3A%2F%2Fdropmag.in)](http://www.dropmag.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmith098" alt="susmith098" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/j_susmith" target="blank"><img src="https://img.shields.io/twitter/follow/j_susmith?logo=twitter&style=for-the-badge" alt="j_susmith" /></a> </p>
 
 - 🔭 I’m currently working on **vue.js projects**
 
 - 🌱 I’m currently learning **vue.js, GAN, C++**
 
-- 📝 I regularly write articles on [www.dropmag.in](www.dropmag.in)
+- 📝 I regularly write articles on [DROP MAG](www.dropmag.in)
 
 - 💬 Ask me about **PHP, node.js,..**
 
 - 📫 How to reach me **susmith508@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/susmith-a-j-b23105171/](https://www.linkedin.com/in/susmith-a-j-b23105171/)
+- 📄 Know about my experiences [click](https://www.linkedin.com/in/susmith-a-j-b23105171/)
 
 - ⚡ Fun fact **I am funny**
 
